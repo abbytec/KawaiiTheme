@@ -140,7 +140,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff709b"
+				"foreground": "#DCBFF2"
       }
     },
     {
@@ -196,7 +196,7 @@
       "scope": "variable.other, variable.js, punctuation.separator.variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#F8F8F0"
+        "foreground": "#EBA4AC"
       }
     },
     {
@@ -212,7 +212,7 @@
       "scope": "variable.other.php, variable.other.normal",
       "settings": {
         "fontStyle": "",
-        "foreground": "#F8F8F0"
+        "foreground": "#EBA4AC"
       }
     },
     {
